@@ -49,7 +49,7 @@
   <a href="https://vk.com/maberukov">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vkontakte Badge"/>
   </a>
-  <a href="your-instagram-URL">
+  <a href="https://instagram/Aberukov">
     <img src="https://img.shields.io/badge/instagram-magenta?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://t.me/Aberukov">
