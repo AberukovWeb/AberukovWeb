@@ -52,7 +52,7 @@
   <a href="your-instagram-URL">
     <img src="https://img.shields.io/badge/instagram-magenta?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="@Aberukov">
+  <a href="https://t.me/Aberukov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
